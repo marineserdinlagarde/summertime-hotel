@@ -1,0 +1,9 @@
+.btn-blue {
+	background-color: #C7B198;
+	padding: 15px 20px; 
+	border-radius: 4px; 
+	color : white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+	text-align:center;
+}

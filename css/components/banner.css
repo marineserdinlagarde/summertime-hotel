@@ -1,0 +1,21 @@
+.banner {
+background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 30%), url(../../images/image_hotel2.jpg);
+background-attachment: fixed;
+background-position: bottom;
+background-size: cover;
+padding : 150px 0px;
+color: white;
+ }
+
+.banner h1 {
+	font-size : 60px;
+	margin-bottom: 0px;
+}
+
+.banner h2 {
+	font-size : 22px;
+	font-weight: lighter;
+	opacity : 0.8;
+	margin-top: 0.3px;
+	margin-bottom: 50px;
+}
